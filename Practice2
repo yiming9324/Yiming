@@ -1,0 +1,5 @@
+<option name="TELEPHONE_HANGUP_OR_RECALL">
+           <value>
+            <telephone name="Honecker" alias="False">
+            <telephone name="Dadu" alias="True">
+           </value>
